@@ -1,9 +1,10 @@
 ---
 title: Journal - a place to keep my memories
+description: I want to have a place to keep my memories. It includes notes, photos, videos and possibly other types of content. It should be available at all times, wherever I go, which means both desktop and mobile support.
 date: 2018-01-29 09:06:56
 ---
-## What I want
 I want to have a place to keep my memories. It includes notes, photos, videos and possibly other types of content. It should be available at all times, wherever I go, which means both desktop and mobile support. I don't need full access when I'm offline but it should at least allow me to add new content and synchronize when there is a connection. I want to be able to tag the content and search it easily. It should be secure but I also want to share some of the content with family or friends. I want to allow them to upload images in photo albums I invited them to. Would be nice if the content could be commented.
+<!-- more --> 
 
 ## Existing solutions
 I checked multiple free apps and played with a few trial versions. Some were close but none of them met all my requirements. Google Photos has almost everything I need but unfortunately, it doesn't allow text content. Also, I'm wary of giving Google *even more* information.
